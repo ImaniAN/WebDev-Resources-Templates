@@ -1,0 +1,385 @@
+@media (min-width: 2001px) and (max-width: 4000px) {
+    .footer-area {
+        padding: 150px 0;
+    }
+}
+
+@media (min-width: 1500px) and (max-width: 2000px) {
+    .footer-area {
+        padding: 80px 0;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1499px) {
+    .selene-breadcumb-area {
+        height: 300px;
+    }
+    .bradcumbContent h2 {
+        font-size: 30px;
+    }
+    .footer-content h2 {
+        font-size: 48px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .welcome_area {
+        height: 800px;
+    }
+    .welcome-mobile-device img:first-child {
+        margin-right: 15px;
+    }
+    .welcome-content h2,
+    .about-app-content h2,
+    .app-faq-content h2,
+    .counter-area > h3,
+    .app-features-content h2,
+    .footer-content h2 {
+        font-size: 42px;
+    }
+    .welcome-content h4 {
+        font-size: 18px;
+    }
+    .about-apps-slider {
+        padding-right: 30px;
+    }
+    .about-us-bg-shape {
+        top: -20%;
+    }
+    .app-faq-content p {
+        margin-bottom: 30px;
+    }
+    .cool-facts-content > p {
+        font-size: 16px;
+    }
+    .pricing-plan-area {
+        padding: 70px 0;
+    }
+    .footer-content h4 {
+        margin: 15px 0;
+        font-size: 18px;
+    }
+    .footer-social-info {
+        margin: 15px 0;
+    }
+    .selene-breadcumb-area {
+        height: 280px;
+    }
+    .bradcumbContent h2 {
+        font-size: 24px;
+    }
+    #googleMap {
+        width: calc(100% - 50px);
+        height: 700px;
+        margin: 0 25px -100px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    #selene-navbar {
+        padding: 15px;
+        border-radius: 3px;
+        background-color: #5b32b4;
+        text-align: left;
+    }
+    .header_area .navbar {
+        padding: 70px 0 0 0;
+        height: 110px;
+    }
+    .header_area.sticky .navbar {
+        padding: 0;
+        height: 70px;
+    }
+    .menu_area #nav .nav-link,
+    .header_area.sticky .menu_area #nav .nav-link {
+        padding: 10px 5px;
+    }
+    .menu_area #nav .nav-link:hover,
+    .header_area.sticky .menu_area #nav .nav-link:hover {
+        color: #fff;
+        padding-left: 10px;
+    }
+    .welcome_area {
+        height: 720px;
+    }
+    .welcome-mobile-device img:first-child {
+        margin-right: 15px;
+    }
+    .welcome-content h2,
+    .about-app-content h2,
+    .app-faq-content h2,
+    .counter-area > h3,
+    .app-features-content h2,
+    .footer-content h2 {
+        font-size: 30px;
+    }
+    .welcome-content h4 {
+        font-size: 16px;
+    }
+    .app-download-btn:first-child {
+        margin-right: 10px;
+    }
+    .welcome-mobile-device {
+        bottom: 30%;
+        width: 35%;
+    }
+    .app-download-area,
+    .app-feature-icon {
+        margin-top: 30px;
+    }
+    .about-app-content p {
+        color: #9597a6;
+    }
+    .about-apps-slider {
+        padding-right: 15px;
+    }
+    .cool-facts-content > p {
+        font-size: 12px;
+    }
+    .footer-content h4 {
+        margin: 15px 0;
+        font-size: 14px;
+    }
+    .footer-social-info {
+        margin: 15px 0;
+    }
+    .footer-social-info a {
+        font-size: 18px;
+        margin: 0 15px;
+    }
+    .copyright-text > p {
+        font-size: 14px;
+    }
+    .pricing-plan-area {
+        padding: 50px 0;
+    }
+    .bradcumbContent h2,
+    .bradcumbContent .breadcrumb-item a,
+    .bradcumbContent .breadcrumb-item {
+        color: inherit;
+    }
+    .blog-area,
+    .contact-area {
+        padding: 0;
+    }
+    #googleMap {
+        width: calc(100% - 30px);
+        height: 500px;
+        margin: 0 15px -100px;
+    }
+    .bradcumbContent h2 {
+        font-size: 30px;
+    }
+    .map-area {
+        margin-top: 100px;
+    }
+    .elements-area {
+        padding: 0 0 100px;
+    }
+    .services-content-mobile-area {
+        padding-right: 0;
+        padding-left: 150px;
+    }
+    .services-text h2 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .services-content-mobile-area {
+        padding-right: 0;
+        overflow-x: hidden;
+        padding-left: 100px;
+        margin-bottom: 50px;
+    }
+    .services-text h2 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .header_area,
+    .blog-area {
+        padding: 0;
+    }
+    .map-area {
+        margin-top: 100px;
+    }
+    .header_area .navbar {
+        padding: 20px 0 0 0;
+        height: 60px;
+    }
+    #selene-navbar {
+        padding: 15px;
+        border-radius: 3px;
+        background-color: #5b32b4;
+        text-align: left;
+    }
+    .menu_area #nav .nav-link,
+    .header_area.sticky .menu_area #nav .nav-link {
+        padding: 5px;
+    }
+    .menu_area #nav .nav-link:hover,
+    .header_area.sticky .menu_area #nav .nav-link:hover {
+        color: #fff;
+        padding-left: 10px;
+    }
+    .search-form-area #search {
+        width: 300px;
+        margin-top: 15px;
+    }
+    .menu_area .navbar-brand {
+        font-size: 24px;
+    }
+    .welcome_area {
+        height: 600px;
+    }
+    .welcome-mobile-device img:first-child {
+        margin-right: 15px;
+    }
+    .welcome-content h2,
+    .about-app-content h2,
+    .app-faq-content h2,
+    .counter-area > h3,
+    .app-features-content h2,
+    .footer-content h2 {
+        font-size: 30px;
+    }
+    .welcome-content h4 {
+        font-size: 16px;
+    }
+    .app-download-btn:first-child {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    .welcome-mobile-device {
+        display: none;
+    }
+    .app-download-area {
+        display: block;
+        margin-top: 30px;
+    }
+    .scroll-down-btn a {
+        margin-top: 50px;
+    }
+    .about-apps-slider {
+        padding-right: 0;
+    }
+    .about-app-content {
+        padding-right: 0;
+        margin-top: 50px;
+    }
+    .about-app-content h2,
+    .about-app-content p {
+        color: #000;
+    }
+    .app-feature-icon {
+        margin-top: 30px;
+    }
+    .app-users-map-area {
+        width: 100%;
+        position: relative;
+        top: 0;
+        margin-top: 30px;
+    }
+    .coolfacts-content {
+        position: relative;
+        z-index: 9;
+        width: 100%;
+        top: 0;
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        margin-top: 30px;
+    }
+    .single-cool-fact {
+        margin-bottom: 30px;
+    }
+    .cool-facts-content > p,
+    .counter-area > h3 {
+        color: #000;
+    }
+    .app-feature-side-thumb {
+        width: 100%;
+        position: relative;
+        top: 0;
+        right: -30px;
+        z-index: 2;
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+    .pricing-plan-area {
+        padding: 50px 0;
+    }
+    .footer-content h2 {
+        color: #000;
+    }
+    .footer-content h4 {
+        color: #000;
+        margin: 15px 0;
+        font-size: 16px;
+    }
+    .footer-social-info a {
+        font-size: 16px;
+        margin: 0 10px;
+    }
+    .copyright-text > p {
+        font-size: 14px;
+    }
+    .about-us-bg-shape {
+        top: 0;
+    }
+    .selene-breadcumb-area {
+        height: 300px;
+    }
+    .bradcumbContent h2,
+    .bradcumbContent .breadcrumb-item a,
+    .bradcumbContent .breadcrumb-item {
+        color: inherit;
+    }
+    .single-pie-bar,
+    .contact-form-area {
+        margin-bottom: 50px;
+    }
+    .aboutUs-headline h2,
+    .bradcumbContent h2,
+    .single-blog h2 {
+        font-size: 30px;
+    }
+    #googleMap {
+        width: calc(100% - 30px);
+        height: 400px;
+        margin: 0 15px 50px;
+    }
+    .contact-area {
+        padding: 0;
+    }
+    .elements-area {
+        padding: 0 0 100px;
+    }
+    .selene-btn {
+        margin-bottom: 15px;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .welcome_area {
+        height: 700px;
+    }
+    .single-pie-bar {
+        margin-bottom: 50px;
+    }
+    .aboutUs-headline h2 {
+        font-size: 30px;
+    }
+    .app-download-area {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        margin-top: 50px;
+    }
+    .app-download-btn:first-child {
+        margin-right: 20px;
+        margin-bottom: 0;
+    }
+}
